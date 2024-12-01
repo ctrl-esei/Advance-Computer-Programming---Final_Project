@@ -4,7 +4,7 @@ This repository is for my final project in ACP - Advance Computer Programming
 
 # Time4Fitness Management System
 
-### I. Project Overview
+# I. Project Overview
 
 The system called Time4Fitness purpose is to offer a comprehensive solution for the administration of gyms and fitness centers because it confronts management, members, and even data management and is issued in an effective way. Through automation of key activities like membership management, payment tracking, deleting members that wants their account to be deleted and even attendance recording, by these it takes the pressure off the administrators, and it promotes precision and reliability. In a matter of fact, this system offers its members the tools like exercise logs and attendance histories that they can keep track of their fitness development that helps to keep motivated.
 
