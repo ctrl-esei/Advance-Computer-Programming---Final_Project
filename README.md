@@ -81,7 +81,7 @@ The system will automate gym operations, including membership management, tracki
     * Display error, information, and warning dialogs to users.
     * Example: Informing users of expired memberships or payment submission status.
 
-# IV. SDG and its integration into the project
+# III. SDG and its integration into the project
 
 ## SDG 3: Good Health and Well-Being
 This goal is the main and the primary goal of the Time4Fitness Management system because it support its users and those who administer it in trying to encourage and help the people to regularly participate with an appreciation for and a preference for their health, all of which contributed towards the larger goal of healthier life while promoting well-being for everyone of all ages in whole wide world.
@@ -96,7 +96,7 @@ Time4Fitness Management System bring opportunities to the members and trainer al
 By maintaining the proper document of fitness activities, membership details and the logs, the system makes management contributes practice more sustainable because I reduce the needs for paper documentation by that, it diminishes administrative inefficiencies, and it also promotes the wise use of resources of gym and fitness operations.
 
 
- # Instruction for running the Program
+ # IV. Instruction for running the Program
 
 1.	Download the zipped file.
 
