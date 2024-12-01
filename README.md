@@ -1,5 +1,6 @@
 # Advance-Computer-Programming---Final_Project
 This repository is for my final project in ACP - Advance Computer Programming
+Please note that i have coded in MacOS changes may apply when transfering the code to windows. Sorry for the inconvenience.
 
 # Time4Fitness Management System
 
