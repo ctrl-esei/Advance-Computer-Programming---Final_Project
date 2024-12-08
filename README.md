@@ -6,13 +6,15 @@ This repository is for my final project in ACP - Advance Computer Programming
 
 # I. Project Overview
 
+<p align="justify"> 
 The system called Time4Fitness purpose is to offer a comprehensive solution for the administration of gyms and fitness centers because it confronts management, members, and even data management and is issued in an effective way. Through automation of key activities like membership management, payment tracking, deleting members that wants their account to be deleted and even attendance recording, by these it takes the pressure off the administrators, and it promotes precision and reliability. In a matter of fact, this system offers its members the tools like exercise logs and attendance histories that they can keep track of their fitness development that helps to keep motivated.
-
+<p align="justify"> 
 This system allows for transparency and clarity by updating and making payment and membership records available to the members and administrators. Centralized databases enhance data management efficiency in features such as sales tracking, membership trend analysis, and reporting user statuses whether active or suspended. The framework enables participants in achieving their goals of good health and fitness while being characterized by building trust and transparency, hence commercial success, aligned to the organization’s mission. It creates opportunities for health clubs in terms of streamlining delivering excellent service to more constituents through eliminating redundancy and thus offering meaningful value. 
-
+<p align="justify"> 
 Therefore, the Time4Fitness system has been designed to enhance operational efficiency at the gym level so that memberships, transactions, exercise logs, and attendance records can be effectively managed. The feature allows registration of users, ensuring all aspects of membership are well covered, while administrators and members will be able to see records transparently. It tracks outstanding and fulfilled payments as well as exercise logs and attendance records, which are used to evaluate the progression of the user and engagement improvement. However, it requires the approval of an administrator instead of automatically during payment processing. Moreover, advanced functionalities, such as wearables or virtual training and complex data analytics, fall out of its scope. It is designed for the benefit of all those connected to it, from the gym administration, staff, trainers, to diverse members irrespective of their age. It is designed for access and usability, meaning that even a person without a lot of technical savvy or an elderly person can quickly use it without problems. The system accommodates a wide range of users with a simple and intuitive interface, thus making it fit for any person that would be managing or making use of the gym services.
-
+<p align="justify"> 
 The system will automate gym operations, including membership management, tracking payments, exercise logs, and attendance, reducing administrative workload by at least 50% six months after implementation. This shall enhance member participation through workout tracking and attendance log. This will thus ensure to enhance the retention rate of members up to 20% within the first year. The record of members along with payment records shall be made 100% accurate as data management will be centralized into an organized database. These include a 50% reduction in workload and a 20% increase in retention, that is, standard requirements found in studies on the digitalization of small and medium-sized businesses, such as fitness studios.
+</p>
 
 # II.	Explanation of how python concepts, libraries, etc. were applied
 
@@ -85,15 +87,19 @@ The system will automate gym operations, including membership management, tracki
 # III. SDG and its integration into the project
 
 ## SDG 3: Good Health and Well-Being
+<p align="justify"> 
 This goal is the main and the primary goal of the Time4Fitness Management system because it support its users and those who administer it in trying to encourage and help the people to regularly participate with an appreciation for and a preference for their health, all of which contributed towards the larger goal of healthier life while promoting well-being for everyone of all ages in whole wide world.
 
 ## SDG 9: Industry, Innovation, and Infrastructure
+<p align="justify"> 
 The system promotes innovation in the gym and fitness industry by developing and improving means of managing a gym via technology. The digital platform enhances operational effectiveness and saves manual work while providing improved member as well as administration experiences for the gym members.
 
 ## SDG 4: Quality Education
+<p align="justify"> 
 Time4Fitness Management System bring opportunities to the members and trainer also the administrators to learn about fitness, track their progress, and engage data-driven decision-making for health improvements. This helps us lifelong learning about fitness and well-being.
 
 ## SDG 12: Responsible Consumption and Production
+<p align="justify"> 
 By maintaining the proper document of fitness activities, membership details and the logs, the system makes management contributes practice more sustainable because I reduce the needs for paper documentation by that, it diminishes administrative inefficiencies, and it also promotes the wise use of resources of gym and fitness operations.
 
 
